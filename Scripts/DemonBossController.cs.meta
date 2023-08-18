@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 31f514fcb9259dc418d0e3f123e4cc2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lightningBolt: {fileID: 178460, guid: 2736bbc2f2c78a949957b0719c2992bd, type: 3}
+  - burningFire: {fileID: 8829451551789304542, guid: 244b1cc8940bd0844a05812855fbe45d, type: 3}
+  - explosionPrefab: {fileID: 1150934714579380, guid: 779aa8c25fbd0e1488637639c9fff976, type: 3}
+  - swipeObjectPrefab: {fileID: 8220457574048168620, guid: 0c247c959925cd740866cea3faccb246, type: 3}
+  - debrisSpawnPointsParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
